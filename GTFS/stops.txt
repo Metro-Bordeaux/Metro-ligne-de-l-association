@@ -1,0 +1,19 @@
+location_type,parent_station,stop_code,stop_desc,stop_id,stop_lat,stop_lon,stop_name,stop_url,wheelchair_boarding,zone_id
+,,,,Metro Science Po,44.79845,-0.61281,Science Po,,1,Metro Science Po
+,,,,Metro Galin,44.84682,-0.54107,Galin,,1,Metro Galin
+,,,,Metro Brazza,44.85177,-0.54598,Brazza,,1,Metro Brazza
+,,,,MetroLaMorlette,44.85483,-0.51839,La Morlette,,1,metro La Morlette
+,,,,Metro Thouars,44.79093,-0.59161,Thouars,,1,Metro Thouars
+,,,,Metro Compostelle,44.79287,-0.60534,Compostelle,,1,Metro Compostelle
+,,,,Metro Arts Métiers,44.806,-0.60282,Arts & Métiers,,1,Metro Arts Métiers
+,,,,Metro La Medoquine,44.81651,-0.60087,La Médoquine,,1,Metro La Medoquine
+,,,,Metro Perrens,44.82363,-0.60062,Charles Perrens,,1,Metro Perrens
+,,,,Metro Pellegrin,44.83064,-0.60357,Hopital Pellegrin,,1,Metro Pellegrin
+,,,,Metro Cite Admin,44.84287,-0.59959,Cité Administrative,,1,Metro Cite Admin
+,,,,Metro Gambetta,44.8411,-0.5807,Gambetta,,1,Metro Gambetta
+,,,,Metro Palais Justice,44.83619,-0.58174,Palais de Justice,,1,Metro Palais Justice
+,,,,Metro Victoire,44.83078,-0.57274,Victoire,,1,Metro Victoire
+,,,,Metro Andre Meunier,44.82883,-0.56355,Place Andre Meunier,,1,Metro Andre Meunier
+,,,,Metro Gare St Jean,44.82613,-0.5564,Gare St Jean,,1,Metro Gare St Jean
+,,,,Metro Belvédère,44.8376,-0.54873,Belvédère,,1,Metro Belvédère
+,,,,Metro Cenon Gare,44.85637,-0.53385,Cenon Gare,,1,Metro Cenon Gare

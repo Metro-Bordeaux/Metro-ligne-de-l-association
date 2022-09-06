@@ -1,0 +1,619 @@
+route_id,service_id,trip_id,trip_headsign,block_id,direction_id,shape_id,trip_short_name
+1001,metro,10011,Thouars,,0,,1001 05:15:00 to Thouars
+1001,metro,10012,Thouars,,0,,1001 05:22:00 to Thouars
+1001,metro,10013,Thouars,,0,,1001 05:29:00 to Thouars
+1001,metro,10014,Thouars,,0,,1001 05:36:00 to Thouars
+1001,metro,10015,Thouars,,0,,1001 05:43:00 to Thouars
+1001,metro,10016,Thouars,,0,,1001 05:50:00 to Thouars
+1001,metro,10017,Thouars,,0,,1001 05:57:00 to Thouars
+1001,metro,10018,Thouars,,0,,1001 06:02:00 to Thouars
+1001,metro,10019,Thouars,,0,,1001 06:07:00 to Thouars
+1001,metro,100110,Thouars,,0,,1001 06:12:00 to Thouars
+1001,metro,100111,Thouars,,0,,1001 06:17:00 to Thouars
+1001,metro,100112,Thouars,,0,,1001 06:22:00 to Thouars
+1001,metro,100113,Thouars,,0,,1001 06:27:00 to Thouars
+1001,metro,100114,Thouars,,0,,1001 06:32:00 to Thouars
+1001,metro,100115,Thouars,,0,,1001 06:37:00 to Thouars
+1001,metro,100116,Thouars,,0,,1001 06:42:00 to Thouars
+1001,metro,100117,Thouars,,0,,1001 06:47:00 to Thouars
+1001,metro,100118,Thouars,,0,,1001 06:52:00 to Thouars
+1001,metro,100119,Thouars,,0,,1001 06:57:00 to Thouars
+1001,metro,100120,Thouars,,0,,1001 07:02:00 to Thouars
+1001,metro,100121,Thouars,,0,,1001 07:07:00 to Thouars
+1001,metro,100122,Thouars,,0,,1001 07:12:00 to Thouars
+1001,metro,100123,Thouars,,0,,1001 07:17:00 to Thouars
+1001,metro,100124,Thouars,,0,,1001 07:22:00 to Thouars
+1001,metro,100125,Thouars,,0,,1001 07:27:00 to Thouars
+1001,metro,100126,Thouars,,0,,1001 07:29:30 to Thouars
+1001,metro,100127,Thouars,,0,,1001 07:32:00 to Thouars
+1001,metro,100128,Thouars,,0,,1001 07:34:30 to Thouars
+1001,metro,100129,Thouars,,0,,1001 07:37:00 to Thouars
+1001,metro,100130,Thouars,,0,,1001 07:39:30 to Thouars
+1001,metro,100131,Thouars,,0,,1001 07:42:00 to Thouars
+1001,metro,100132,Thouars,,0,,1001 07:44:30 to Thouars
+1001,metro,100133,Thouars,,0,,1001 07:47:00 to Thouars
+1001,metro,100134,Thouars,,0,,1001 07:49:30 to Thouars
+1001,metro,100135,Thouars,,0,,1001 07:52:00 to Thouars
+1001,metro,100136,Thouars,,0,,1001 07:54:30 to Thouars
+1001,metro,100137,Thouars,,0,,1001 07:57:00 to Thouars
+1001,metro,100138,Thouars,,0,,1001 07:59:30 to Thouars
+1001,metro,100139,Thouars,,0,,1001 08:02:00 to Thouars
+1001,metro,100140,Thouars,,0,,1001 08:04:30 to Thouars
+1001,metro,100141,Thouars,,0,,1001 08:07:00 to Thouars
+1001,metro,100142,Thouars,,0,,1001 08:09:30 to Thouars
+1001,metro,100143,Thouars,,0,,1001 08:12:00 to Thouars
+1001,metro,100144,Thouars,,0,,1001 08:14:30 to Thouars
+1001,metro,100145,Thouars,,0,,1001 08:17:00 to Thouars
+1001,metro,100146,Thouars,,0,,1001 08:19:30 to Thouars
+1001,metro,100147,Thouars,,0,,1001 08:22:00 to Thouars
+1001,metro,100148,Thouars,,0,,1001 08:24:30 to Thouars
+1001,metro,100149,Thouars,,0,,1001 08:27:00 to Thouars
+1001,metro,100150,Thouars,,0,,1001 08:29:30 to Thouars
+1001,metro,100151,Thouars,,0,,1001 08:32:00 to Thouars
+1001,metro,100152,Thouars,,0,,1001 08:34:30 to Thouars
+1001,metro,100153,Thouars,,0,,1001 08:37:00 to Thouars
+1001,metro,100154,Thouars,,0,,1001 08:39:30 to Thouars
+1001,metro,100155,Thouars,,0,,1001 08:42:00 to Thouars
+1001,metro,100156,Thouars,,0,,1001 08:44:30 to Thouars
+1001,metro,100157,Thouars,,0,,1001 08:47:00 to Thouars
+1001,metro,100158,Thouars,,0,,1001 08:49:30 to Thouars
+1001,metro,100159,Thouars,,0,,1001 08:52:00 to Thouars
+1001,metro,100160,Thouars,,0,,1001 08:54:30 to Thouars
+1001,metro,100161,Thouars,,0,,1001 08:57:00 to Thouars
+1001,metro,100162,Thouars,,0,,1001 08:59:30 to Thouars
+1001,metro,100163,Thouars,,0,,1001 09:02:00 to Thouars
+1001,metro,100164,Thouars,,0,,1001 09:04:30 to Thouars
+1001,metro,100165,Thouars,,0,,1001 09:07:00 to Thouars
+1001,metro,100166,Thouars,,0,,1001 09:09:30 to Thouars
+1001,metro,100167,Thouars,,0,,1001 09:12:00 to Thouars
+1001,metro,100168,Thouars,,0,,1001 09:14:30 to Thouars
+1001,metro,100169,Thouars,,0,,1001 09:17:00 to Thouars
+1001,metro,100170,Thouars,,0,,1001 09:19:30 to Thouars
+1001,metro,100171,Thouars,,0,,1001 09:22:00 to Thouars
+1001,metro,100172,Thouars,,0,,1001 09:24:30 to Thouars
+1001,metro,100173,Thouars,,0,,1001 09:27:00 to Thouars
+1001,metro,100174,Thouars,,0,,1001 09:29:30 to Thouars
+1001,metro,100175,Thouars,,0,,1001 09:32:00 to Thouars
+1001,metro,100176,Thouars,,0,,1001 09:36:00 to Thouars
+1001,metro,100177,Thouars,,0,,1001 09:40:00 to Thouars
+1001,metro,100178,Thouars,,0,,1001 09:44:00 to Thouars
+1001,metro,100179,Thouars,,0,,1001 09:48:00 to Thouars
+1001,metro,100180,Thouars,,0,,1001 09:52:00 to Thouars
+1001,metro,100181,Thouars,,0,,1001 09:56:00 to Thouars
+1001,metro,100182,Thouars,,0,,1001 10:00:00 to Thouars
+1001,metro,100183,Thouars,,0,,1001 10:04:00 to Thouars
+1001,metro,100184,Thouars,,0,,1001 10:08:00 to Thouars
+1001,metro,100185,Thouars,,0,,1001 10:12:00 to Thouars
+1001,metro,100186,Thouars,,0,,1001 10:16:00 to Thouars
+1001,metro,100187,Thouars,,0,,1001 10:20:00 to Thouars
+1001,metro,100188,Thouars,,0,,1001 10:24:00 to Thouars
+1001,metro,100189,Thouars,,0,,1001 10:28:00 to Thouars
+1001,metro,100190,Thouars,,0,,1001 10:32:00 to Thouars
+1001,metro,100191,Thouars,,0,,1001 10:36:00 to Thouars
+1001,metro,100192,Thouars,,0,,1001 10:40:00 to Thouars
+1001,metro,100193,Thouars,,0,,1001 10:44:00 to Thouars
+1001,metro,100194,Thouars,,0,,1001 10:48:00 to Thouars
+1001,metro,100195,Thouars,,0,,1001 10:52:00 to Thouars
+1001,metro,100196,Thouars,,0,,1001 10:56:00 to Thouars
+1001,metro,100197,Thouars,,0,,1001 11:00:00 to Thouars
+1001,metro,100198,Thouars,,0,,1001 11:04:00 to Thouars
+1001,metro,100199,Thouars,,0,,1001 11:08:00 to Thouars
+1001,metro,1001100,Thouars,,0,,1001 11:12:00 to Thouars
+1001,metro,1001101,Thouars,,0,,1001 11:16:00 to Thouars
+1001,metro,1001102,Thouars,,0,,1001 11:20:00 to Thouars
+1001,metro,1001103,Thouars,,0,,1001 11:24:00 to Thouars
+1001,metro,1001104,Thouars,,0,,1001 11:28:00 to Thouars
+1001,metro,1001105,Thouars,,0,,1001 11:32:00 to Thouars
+1001,metro,1001106,Thouars,,0,,1001 11:36:00 to Thouars
+1001,metro,1001107,Thouars,,0,,1001 11:40:00 to Thouars
+1001,metro,1001108,Thouars,,0,,1001 11:44:00 to Thouars
+1001,metro,1001109,Thouars,,0,,1001 11:48:00 to Thouars
+1001,metro,1001110,Thouars,,0,,1001 11:52:00 to Thouars
+1001,metro,1001111,Thouars,,0,,1001 11:56:00 to Thouars
+1001,metro,1001112,Thouars,,0,,1001 12:00:00 to Thouars
+1001,metro,1001113,Thouars,,0,,1001 12:03:00 to Thouars
+1001,metro,1001114,Thouars,,0,,1001 12:06:00 to Thouars
+1001,metro,1001115,Thouars,,0,,1001 12:09:00 to Thouars
+1001,metro,1001116,Thouars,,0,,1001 12:12:00 to Thouars
+1001,metro,1001117,Thouars,,0,,1001 12:15:00 to Thouars
+1001,metro,1001118,Thouars,,0,,1001 12:18:00 to Thouars
+1001,metro,1001119,Thouars,,0,,1001 12:21:00 to Thouars
+1001,metro,1001120,Thouars,,0,,1001 12:24:00 to Thouars
+1001,metro,1001121,Thouars,,0,,1001 12:27:00 to Thouars
+1001,metro,1001122,Thouars,,0,,1001 12:30:00 to Thouars
+1001,metro,1001123,Thouars,,0,,1001 12:33:00 to Thouars
+1001,metro,1001124,Thouars,,0,,1001 12:36:00 to Thouars
+1001,metro,1001125,Thouars,,0,,1001 12:39:00 to Thouars
+1001,metro,1001126,Thouars,,0,,1001 12:42:00 to Thouars
+1001,metro,1001127,Thouars,,0,,1001 12:45:00 to Thouars
+1001,metro,1001128,Thouars,,0,,1001 12:48:00 to Thouars
+1001,metro,1001129,Thouars,,0,,1001 12:51:00 to Thouars
+1001,metro,1001130,Thouars,,0,,1001 12:54:00 to Thouars
+1001,metro,1001131,Thouars,,0,,1001 12:57:00 to Thouars
+1001,metro,1001132,Thouars,,0,,1001 13:00:00 to Thouars
+1001,metro,1001133,Thouars,,0,,1001 13:03:00 to Thouars
+1001,metro,1001134,Thouars,,0,,1001 13:06:00 to Thouars
+1001,metro,1001135,Thouars,,0,,1001 13:09:00 to Thouars
+1001,metro,1001136,Thouars,,0,,1001 13:12:00 to Thouars
+1001,metro,1001137,Thouars,,0,,1001 13:15:00 to Thouars
+1001,metro,1001138,Thouars,,0,,1001 13:18:00 to Thouars
+1001,metro,1001139,Thouars,,0,,1001 13:21:00 to Thouars
+1001,metro,1001140,Thouars,,0,,1001 13:24:00 to Thouars
+1001,metro,1001141,Thouars,,0,,1001 13:27:00 to Thouars
+1001,metro,1001142,Thouars,,0,,1001 13:30:00 to Thouars
+1001,metro,1001143,Thouars,,0,,1001 13:33:00 to Thouars
+1001,metro,1001144,Thouars,,0,,1001 13:36:00 to Thouars
+1001,metro,1001145,Thouars,,0,,1001 13:39:00 to Thouars
+1001,metro,1001146,Thouars,,0,,1001 13:42:00 to Thouars
+1001,metro,1001147,Thouars,,0,,1001 13:45:00 to Thouars
+1001,metro,1001148,Thouars,,0,,1001 13:48:00 to Thouars
+1001,metro,1001149,Thouars,,0,,1001 13:51:00 to Thouars
+1001,metro,1001150,Thouars,,0,,1001 13:54:00 to Thouars
+1001,metro,1001151,Thouars,,0,,1001 13:57:00 to Thouars
+1001,metro,1001152,Thouars,,0,,1001 14:00:00 to Thouars
+1001,metro,1001153,Thouars,,0,,1001 14:04:00 to Thouars
+1001,metro,1001154,Thouars,,0,,1001 14:08:00 to Thouars
+1001,metro,1001155,Thouars,,0,,1001 14:12:00 to Thouars
+1001,metro,1001156,Thouars,,0,,1001 14:16:00 to Thouars
+1001,metro,1001157,Thouars,,0,,1001 14:20:00 to Thouars
+1001,metro,1001158,Thouars,,0,,1001 14:24:00 to Thouars
+1001,metro,1001159,Thouars,,0,,1001 14:28:00 to Thouars
+1001,metro,1001160,Thouars,,0,,1001 14:32:00 to Thouars
+1001,metro,1001161,Thouars,,0,,1001 14:36:00 to Thouars
+1001,metro,1001162,Thouars,,0,,1001 14:40:00 to Thouars
+1001,metro,1001163,Thouars,,0,,1001 14:44:00 to Thouars
+1001,metro,1001164,Thouars,,0,,1001 14:48:00 to Thouars
+1001,metro,1001165,Thouars,,0,,1001 14:52:00 to Thouars
+1001,metro,1001166,Thouars,,0,,1001 14:56:00 to Thouars
+1001,metro,1001167,Thouars,,0,,1001 15:00:00 to Thouars
+1001,metro,1001168,Thouars,,0,,1001 15:04:00 to Thouars
+1001,metro,1001169,Thouars,,0,,1001 15:08:00 to Thouars
+1001,metro,1001170,Thouars,,0,,1001 15:12:00 to Thouars
+1001,metro,1001171,Thouars,,0,,1001 15:16:00 to Thouars
+1001,metro,1001172,Thouars,,0,,1001 15:20:00 to Thouars
+1001,metro,1001173,Thouars,,0,,1001 15:24:00 to Thouars
+1001,metro,1001174,Thouars,,0,,1001 15:28:00 to Thouars
+1001,metro,1001175,Thouars,,0,,1001 15:32:00 to Thouars
+1001,metro,1001176,Thouars,,0,,1001 15:36:00 to Thouars
+1001,metro,1001177,Thouars,,0,,1001 15:40:00 to Thouars
+1001,metro,1001178,Thouars,,0,,1001 15:44:00 to Thouars
+1001,metro,1001179,Thouars,,0,,1001 15:48:00 to Thouars
+1001,metro,1001180,Thouars,,0,,1001 15:52:00 to Thouars
+1001,metro,1001181,Thouars,,0,,1001 15:56:00 to Thouars
+1001,metro,1001182,Thouars,,0,,1001 16:00:00 to Thouars
+1001,metro,1001183,Thouars,,0,,1001 16:04:00 to Thouars
+1001,metro,1001184,Thouars,,0,,1001 16:08:00 to Thouars
+1001,metro,1001185,Thouars,,0,,1001 16:12:00 to Thouars
+1001,metro,1001186,Thouars,,0,,1001 16:16:00 to Thouars
+1001,metro,1001187,Thouars,,0,,1001 16:20:00 to Thouars
+1001,metro,1001188,Thouars,,0,,1001 16:24:00 to Thouars
+1001,metro,1001189,Thouars,,0,,1001 16:28:00 to Thouars
+1001,metro,1001190,Thouars,,0,,1001 16:32:00 to Thouars
+1001,metro,1001191,Thouars,,0,,1001 16:36:00 to Thouars
+1001,metro,1001192,Thouars,,0,,1001 16:40:00 to Thouars
+1001,metro,1001193,Thouars,,0,,1001 16:44:00 to Thouars
+1001,metro,1001194,Thouars,,0,,1001 16:48:00 to Thouars
+1001,metro,1001195,Thouars,,0,,1001 16:52:00 to Thouars
+1001,metro,1001196,Thouars,,0,,1001 16:56:00 to Thouars
+1001,metro,1001197,Thouars,,0,,1001 17:00:00 to Thouars
+1001,metro,1001198,Thouars,,0,,1001 17:02:30 to Thouars
+1001,metro,1001199,Thouars,,0,,1001 17:05:00 to Thouars
+1001,metro,1001200,Thouars,,0,,1001 17:07:30 to Thouars
+1001,metro,1001201,Thouars,,0,,1001 17:10:00 to Thouars
+1001,metro,1001202,Thouars,,0,,1001 17:12:30 to Thouars
+1001,metro,1001203,Thouars,,0,,1001 17:15:00 to Thouars
+1001,metro,1001204,Thouars,,0,,1001 17:17:30 to Thouars
+1001,metro,1001205,Thouars,,0,,1001 17:20:00 to Thouars
+1001,metro,1001206,Thouars,,0,,1001 17:22:30 to Thouars
+1001,metro,1001207,Thouars,,0,,1001 17:25:00 to Thouars
+1001,metro,1001208,Thouars,,0,,1001 17:27:30 to Thouars
+1001,metro,1001209,Thouars,,0,,1001 17:30:00 to Thouars
+1001,metro,1001210,Thouars,,0,,1001 17:32:30 to Thouars
+1001,metro,1001211,Thouars,,0,,1001 17:35:00 to Thouars
+1001,metro,1001212,Thouars,,0,,1001 17:37:30 to Thouars
+1001,metro,1001213,Thouars,,0,,1001 17:40:00 to Thouars
+1001,metro,1001214,Thouars,,0,,1001 17:42:30 to Thouars
+1001,metro,1001215,Thouars,,0,,1001 17:45:00 to Thouars
+1001,metro,1001216,Thouars,,0,,1001 17:47:30 to Thouars
+1001,metro,1001217,Thouars,,0,,1001 17:50:00 to Thouars
+1001,metro,1001218,Thouars,,0,,1001 17:52:30 to Thouars
+1001,metro,1001219,Thouars,,0,,1001 17:55:00 to Thouars
+1001,metro,1001220,Thouars,,0,,1001 17:57:30 to Thouars
+1001,metro,1001221,Thouars,,0,,1001 18:00:00 to Thouars
+1001,metro,1001222,Thouars,,0,,1001 18:02:30 to Thouars
+1001,metro,1001223,Thouars,,0,,1001 18:05:00 to Thouars
+1001,metro,1001224,Thouars,,0,,1001 18:07:30 to Thouars
+1001,metro,1001225,Thouars,,0,,1001 18:10:00 to Thouars
+1001,metro,1001226,Thouars,,0,,1001 18:12:30 to Thouars
+1001,metro,1001227,Thouars,,0,,1001 18:15:00 to Thouars
+1001,metro,1001228,Thouars,,0,,1001 18:17:30 to Thouars
+1001,metro,1001229,Thouars,,0,,1001 18:20:00 to Thouars
+1001,metro,1001230,Thouars,,0,,1001 18:22:30 to Thouars
+1001,metro,1001231,Thouars,,0,,1001 18:25:00 to Thouars
+1001,metro,1001232,Thouars,,0,,1001 18:27:30 to Thouars
+1001,metro,1001233,Thouars,,0,,1001 18:30:00 to Thouars
+1001,metro,1001234,Thouars,,0,,1001 18:32:30 to Thouars
+1001,metro,1001235,Thouars,,0,,1001 18:35:00 to Thouars
+1001,metro,1001236,Thouars,,0,,1001 18:37:30 to Thouars
+1001,metro,1001237,Thouars,,0,,1001 18:40:00 to Thouars
+1001,metro,1001238,Thouars,,0,,1001 18:42:30 to Thouars
+1001,metro,1001239,Thouars,,0,,1001 18:45:00 to Thouars
+1001,metro,1001240,Thouars,,0,,1001 18:47:30 to Thouars
+1001,metro,1001241,Thouars,,0,,1001 18:50:00 to Thouars
+1001,metro,1001242,Thouars,,0,,1001 18:52:30 to Thouars
+1001,metro,1001243,Thouars,,0,,1001 18:55:00 to Thouars
+1001,metro,1001244,Thouars,,0,,1001 18:57:30 to Thouars
+1001,metro,1001245,Thouars,,0,,1001 19:00:00 to Thouars
+1001,metro,1001246,Thouars,,0,,1001 19:04:00 to Thouars
+1001,metro,1001247,Thouars,,0,,1001 19:08:00 to Thouars
+1001,metro,1001248,Thouars,,0,,1001 19:12:00 to Thouars
+1001,metro,1001249,Thouars,,0,,1001 19:16:00 to Thouars
+1001,metro,1001250,Thouars,,0,,1001 19:20:00 to Thouars
+1001,metro,1001251,Thouars,,0,,1001 19:24:00 to Thouars
+1001,metro,1001252,Thouars,,0,,1001 19:28:00 to Thouars
+1001,metro,1001253,Thouars,,0,,1001 19:32:00 to Thouars
+1001,metro,1001254,Thouars,,0,,1001 19:36:00 to Thouars
+1001,metro,1001255,Thouars,,0,,1001 19:40:00 to Thouars
+1001,metro,1001256,Thouars,,0,,1001 19:44:00 to Thouars
+1001,metro,1001257,Thouars,,0,,1001 19:48:00 to Thouars
+1001,metro,1001258,Thouars,,0,,1001 19:52:00 to Thouars
+1001,metro,1001259,Thouars,,0,,1001 19:56:00 to Thouars
+1001,metro,1001260,Thouars,,0,,1001 20:00:00 to Thouars
+1001,metro,1001261,Thouars,,0,,1001 20:04:00 to Thouars
+1001,metro,1001262,Thouars,,0,,1001 20:08:00 to Thouars
+1001,metro,1001263,Thouars,,0,,1001 20:12:00 to Thouars
+1001,metro,1001264,Thouars,,0,,1001 20:16:00 to Thouars
+1001,metro,1001265,Thouars,,0,,1001 20:20:00 to Thouars
+1001,metro,1001266,Thouars,,0,,1001 20:24:00 to Thouars
+1001,metro,1001267,Thouars,,0,,1001 20:28:00 to Thouars
+1001,metro,1001268,Thouars,,0,,1001 20:32:00 to Thouars
+1001,metro,1001269,Thouars,,0,,1001 20:36:00 to Thouars
+1001,metro,1001270,Thouars,,0,,1001 20:40:00 to Thouars
+1001,metro,1001271,Thouars,,0,,1001 20:44:00 to Thouars
+1001,metro,1001272,Thouars,,0,,1001 20:48:00 to Thouars
+1001,metro,1001273,Thouars,,0,,1001 20:52:00 to Thouars
+1001,metro,1001274,Thouars,,0,,1001 20:56:00 to Thouars
+1001,metro,1001275,Thouars,,0,,1001 21:00:00 to Thouars
+1001,metro,1001276,Thouars,,0,,1001 21:05:00 to Thouars
+1001,metro,1001277,Thouars,,0,,1001 21:10:00 to Thouars
+1001,metro,1001278,Thouars,,0,,1001 21:15:00 to Thouars
+1001,metro,1001279,Thouars,,0,,1001 21:20:00 to Thouars
+1001,metro,1001280,Thouars,,0,,1001 21:25:00 to Thouars
+1001,metro,1001281,Thouars,,0,,1001 21:30:00 to Thouars
+1001,metro,1001282,Thouars,,0,,1001 21:35:00 to Thouars
+1001,metro,1001283,Thouars,,0,,1001 21:40:00 to Thouars
+1001,metro,1001284,Thouars,,0,,1001 21:45:00 to Thouars
+1001,metro,1001285,Thouars,,0,,1001 21:50:00 to Thouars
+1001,metro,1001286,Thouars,,0,,1001 21:55:00 to Thouars
+1001,metro,1001287,Thouars,,0,,1001 22:00:00 to Thouars
+1001,metro,1001288,Thouars,,0,,1001 22:07:00 to Thouars
+1001,metro,1001289,Thouars,,0,,1001 22:14:00 to Thouars
+1001,metro,1001290,Thouars,,0,,1001 22:21:00 to Thouars
+1001,metro,1001291,Thouars,,0,,1001 22:28:00 to Thouars
+1001,metro,1001292,Thouars,,0,,1001 22:35:00 to Thouars
+1001,metro,1001293,Thouars,,0,,1001 22:42:00 to Thouars
+1001,metro,1001294,Thouars,,0,,1001 22:49:00 to Thouars
+1001,metro,1001295,Thouars,,0,,1001 22:56:00 to Thouars
+1001,metro,1001296,Thouars,,0,,1001 23:03:00 to Thouars
+1001,metro,1001297,Thouars,,0,,1001 23:10:00 to Thouars
+1001,metro,1001298,Thouars,,0,,1001 23:17:00 to Thouars
+1001,metro,1001299,Thouars,,0,,1001 23:24:00 to Thouars
+1001,metro,1001300,Thouars,,0,,1001 23:31:00 to Thouars
+1001,metro,1001301,Thouars,,0,,1001 23:38:00 to Thouars
+1001,metro,1001302,Thouars,,0,,1001 23:45:00 to Thouars
+1001,metro,1001303,Thouars,,0,,1001 23:52:00 to Thouars
+1001,metro,1001304,Thouars,,0,,1001 23:59:00 to Thouars
+1001,metro,1001305,Thouars,,0,,1001 24:06:00 to Thouars
+1001,metro,1001306,Thouars,,0,,1001 24:13:00 to Thouars
+1001,metro,1001307,Thouars,,0,,1001 24:20:00 to Thouars
+1001,metro,1001308,Thouars,,0,,1001 24:27:00 to Thouars
+1001,metro,1001309,Thouars,,0,,1001 24:34:00 to Thouars
+1001,metro,1001310,La Morlette,,1,,1001 05:15:00 to La Morlette
+1001,metro,1001311,La Morlette,,1,,1001 05:22:00 to La Morlette
+1001,metro,1001312,La Morlette,,1,,1001 05:29:00 to La Morlette
+1001,metro,1001313,La Morlette,,1,,1001 05:36:00 to La Morlette
+1001,metro,1001314,La Morlette,,1,,1001 05:43:00 to La Morlette
+1001,metro,1001315,La Morlette,,1,,1001 05:50:00 to La Morlette
+1001,metro,1001316,La Morlette,,1,,1001 05:57:00 to La Morlette
+1001,metro,1001317,La Morlette,,1,,1001 06:02:00 to La Morlette
+1001,metro,1001318,La Morlette,,1,,1001 06:07:00 to La Morlette
+1001,metro,1001319,La Morlette,,1,,1001 06:12:00 to La Morlette
+1001,metro,1001320,La Morlette,,1,,1001 06:17:00 to La Morlette
+1001,metro,1001321,La Morlette,,1,,1001 06:22:00 to La Morlette
+1001,metro,1001322,La Morlette,,1,,1001 06:27:00 to La Morlette
+1001,metro,1001323,La Morlette,,1,,1001 06:32:00 to La Morlette
+1001,metro,1001324,La Morlette,,1,,1001 06:37:00 to La Morlette
+1001,metro,1001325,La Morlette,,1,,1001 06:42:00 to La Morlette
+1001,metro,1001326,La Morlette,,1,,1001 06:47:00 to La Morlette
+1001,metro,1001327,La Morlette,,1,,1001 06:52:00 to La Morlette
+1001,metro,1001328,La Morlette,,1,,1001 06:57:00 to La Morlette
+1001,metro,1001329,La Morlette,,1,,1001 07:02:00 to La Morlette
+1001,metro,1001330,La Morlette,,1,,1001 07:07:00 to La Morlette
+1001,metro,1001331,La Morlette,,1,,1001 07:12:00 to La Morlette
+1001,metro,1001332,La Morlette,,1,,1001 07:17:00 to La Morlette
+1001,metro,1001333,La Morlette,,1,,1001 07:22:00 to La Morlette
+1001,metro,1001334,La Morlette,,1,,1001 07:27:00 to La Morlette
+1001,metro,1001335,La Morlette,,1,,1001 07:29:30 to La Morlette
+1001,metro,1001336,La Morlette,,1,,1001 07:32:00 to La Morlette
+1001,metro,1001337,La Morlette,,1,,1001 07:34:30 to La Morlette
+1001,metro,1001338,La Morlette,,1,,1001 07:37:00 to La Morlette
+1001,metro,1001339,La Morlette,,1,,1001 07:39:30 to La Morlette
+1001,metro,1001340,La Morlette,,1,,1001 07:42:00 to La Morlette
+1001,metro,1001341,La Morlette,,1,,1001 07:44:30 to La Morlette
+1001,metro,1001342,La Morlette,,1,,1001 07:47:00 to La Morlette
+1001,metro,1001343,La Morlette,,1,,1001 07:49:30 to La Morlette
+1001,metro,1001344,La Morlette,,1,,1001 07:52:00 to La Morlette
+1001,metro,1001345,La Morlette,,1,,1001 07:54:30 to La Morlette
+1001,metro,1001346,La Morlette,,1,,1001 07:57:00 to La Morlette
+1001,metro,1001347,La Morlette,,1,,1001 07:59:30 to La Morlette
+1001,metro,1001348,La Morlette,,1,,1001 08:02:00 to La Morlette
+1001,metro,1001349,La Morlette,,1,,1001 08:04:30 to La Morlette
+1001,metro,1001350,La Morlette,,1,,1001 08:07:00 to La Morlette
+1001,metro,1001351,La Morlette,,1,,1001 08:09:30 to La Morlette
+1001,metro,1001352,La Morlette,,1,,1001 08:12:00 to La Morlette
+1001,metro,1001353,La Morlette,,1,,1001 08:14:30 to La Morlette
+1001,metro,1001354,La Morlette,,1,,1001 08:17:00 to La Morlette
+1001,metro,1001355,La Morlette,,1,,1001 08:19:30 to La Morlette
+1001,metro,1001356,La Morlette,,1,,1001 08:22:00 to La Morlette
+1001,metro,1001357,La Morlette,,1,,1001 08:24:30 to La Morlette
+1001,metro,1001358,La Morlette,,1,,1001 08:27:00 to La Morlette
+1001,metro,1001359,La Morlette,,1,,1001 08:29:30 to La Morlette
+1001,metro,1001360,La Morlette,,1,,1001 08:32:00 to La Morlette
+1001,metro,1001361,La Morlette,,1,,1001 08:34:30 to La Morlette
+1001,metro,1001362,La Morlette,,1,,1001 08:37:00 to La Morlette
+1001,metro,1001363,La Morlette,,1,,1001 08:39:30 to La Morlette
+1001,metro,1001364,La Morlette,,1,,1001 08:42:00 to La Morlette
+1001,metro,1001365,La Morlette,,1,,1001 08:44:30 to La Morlette
+1001,metro,1001366,La Morlette,,1,,1001 08:47:00 to La Morlette
+1001,metro,1001367,La Morlette,,1,,1001 08:49:30 to La Morlette
+1001,metro,1001368,La Morlette,,1,,1001 08:52:00 to La Morlette
+1001,metro,1001369,La Morlette,,1,,1001 08:54:30 to La Morlette
+1001,metro,1001370,La Morlette,,1,,1001 08:57:00 to La Morlette
+1001,metro,1001371,La Morlette,,1,,1001 08:59:30 to La Morlette
+1001,metro,1001372,La Morlette,,1,,1001 09:02:00 to La Morlette
+1001,metro,1001373,La Morlette,,1,,1001 09:04:30 to La Morlette
+1001,metro,1001374,La Morlette,,1,,1001 09:07:00 to La Morlette
+1001,metro,1001375,La Morlette,,1,,1001 09:09:30 to La Morlette
+1001,metro,1001376,La Morlette,,1,,1001 09:12:00 to La Morlette
+1001,metro,1001377,La Morlette,,1,,1001 09:14:30 to La Morlette
+1001,metro,1001378,La Morlette,,1,,1001 09:17:00 to La Morlette
+1001,metro,1001379,La Morlette,,1,,1001 09:19:30 to La Morlette
+1001,metro,1001380,La Morlette,,1,,1001 09:22:00 to La Morlette
+1001,metro,1001381,La Morlette,,1,,1001 09:24:30 to La Morlette
+1001,metro,1001382,La Morlette,,1,,1001 09:27:00 to La Morlette
+1001,metro,1001383,La Morlette,,1,,1001 09:29:30 to La Morlette
+1001,metro,1001384,La Morlette,,1,,1001 09:32:00 to La Morlette
+1001,metro,1001385,La Morlette,,1,,1001 09:36:00 to La Morlette
+1001,metro,1001386,La Morlette,,1,,1001 09:40:00 to La Morlette
+1001,metro,1001387,La Morlette,,1,,1001 09:44:00 to La Morlette
+1001,metro,1001388,La Morlette,,1,,1001 09:48:00 to La Morlette
+1001,metro,1001389,La Morlette,,1,,1001 09:52:00 to La Morlette
+1001,metro,1001390,La Morlette,,1,,1001 09:56:00 to La Morlette
+1001,metro,1001391,La Morlette,,1,,1001 10:00:00 to La Morlette
+1001,metro,1001392,La Morlette,,1,,1001 10:04:00 to La Morlette
+1001,metro,1001393,La Morlette,,1,,1001 10:08:00 to La Morlette
+1001,metro,1001394,La Morlette,,1,,1001 10:12:00 to La Morlette
+1001,metro,1001395,La Morlette,,1,,1001 10:16:00 to La Morlette
+1001,metro,1001396,La Morlette,,1,,1001 10:20:00 to La Morlette
+1001,metro,1001397,La Morlette,,1,,1001 10:24:00 to La Morlette
+1001,metro,1001398,La Morlette,,1,,1001 10:28:00 to La Morlette
+1001,metro,1001399,La Morlette,,1,,1001 10:32:00 to La Morlette
+1001,metro,1001400,La Morlette,,1,,1001 10:36:00 to La Morlette
+1001,metro,1001401,La Morlette,,1,,1001 10:40:00 to La Morlette
+1001,metro,1001402,La Morlette,,1,,1001 10:44:00 to La Morlette
+1001,metro,1001403,La Morlette,,1,,1001 10:48:00 to La Morlette
+1001,metro,1001404,La Morlette,,1,,1001 10:52:00 to La Morlette
+1001,metro,1001405,La Morlette,,1,,1001 10:56:00 to La Morlette
+1001,metro,1001406,La Morlette,,1,,1001 11:00:00 to La Morlette
+1001,metro,1001407,La Morlette,,1,,1001 11:04:00 to La Morlette
+1001,metro,1001408,La Morlette,,1,,1001 11:08:00 to La Morlette
+1001,metro,1001409,La Morlette,,1,,1001 11:12:00 to La Morlette
+1001,metro,1001410,La Morlette,,1,,1001 11:16:00 to La Morlette
+1001,metro,1001411,La Morlette,,1,,1001 11:20:00 to La Morlette
+1001,metro,1001412,La Morlette,,1,,1001 11:24:00 to La Morlette
+1001,metro,1001413,La Morlette,,1,,1001 11:28:00 to La Morlette
+1001,metro,1001414,La Morlette,,1,,1001 11:32:00 to La Morlette
+1001,metro,1001415,La Morlette,,1,,1001 11:36:00 to La Morlette
+1001,metro,1001416,La Morlette,,1,,1001 11:40:00 to La Morlette
+1001,metro,1001417,La Morlette,,1,,1001 11:44:00 to La Morlette
+1001,metro,1001418,La Morlette,,1,,1001 11:48:00 to La Morlette
+1001,metro,1001419,La Morlette,,1,,1001 11:52:00 to La Morlette
+1001,metro,1001420,La Morlette,,1,,1001 11:56:00 to La Morlette
+1001,metro,1001421,La Morlette,,1,,1001 12:00:00 to La Morlette
+1001,metro,1001422,La Morlette,,1,,1001 12:03:00 to La Morlette
+1001,metro,1001423,La Morlette,,1,,1001 12:06:00 to La Morlette
+1001,metro,1001424,La Morlette,,1,,1001 12:09:00 to La Morlette
+1001,metro,1001425,La Morlette,,1,,1001 12:12:00 to La Morlette
+1001,metro,1001426,La Morlette,,1,,1001 12:15:00 to La Morlette
+1001,metro,1001427,La Morlette,,1,,1001 12:18:00 to La Morlette
+1001,metro,1001428,La Morlette,,1,,1001 12:21:00 to La Morlette
+1001,metro,1001429,La Morlette,,1,,1001 12:24:00 to La Morlette
+1001,metro,1001430,La Morlette,,1,,1001 12:27:00 to La Morlette
+1001,metro,1001431,La Morlette,,1,,1001 12:30:00 to La Morlette
+1001,metro,1001432,La Morlette,,1,,1001 12:33:00 to La Morlette
+1001,metro,1001433,La Morlette,,1,,1001 12:36:00 to La Morlette
+1001,metro,1001434,La Morlette,,1,,1001 12:39:00 to La Morlette
+1001,metro,1001435,La Morlette,,1,,1001 12:42:00 to La Morlette
+1001,metro,1001436,La Morlette,,1,,1001 12:45:00 to La Morlette
+1001,metro,1001437,La Morlette,,1,,1001 12:48:00 to La Morlette
+1001,metro,1001438,La Morlette,,1,,1001 12:51:00 to La Morlette
+1001,metro,1001439,La Morlette,,1,,1001 12:54:00 to La Morlette
+1001,metro,1001440,La Morlette,,1,,1001 12:57:00 to La Morlette
+1001,metro,1001441,La Morlette,,1,,1001 13:00:00 to La Morlette
+1001,metro,1001442,La Morlette,,1,,1001 13:03:00 to La Morlette
+1001,metro,1001443,La Morlette,,1,,1001 13:06:00 to La Morlette
+1001,metro,1001444,La Morlette,,1,,1001 13:09:00 to La Morlette
+1001,metro,1001445,La Morlette,,1,,1001 13:12:00 to La Morlette
+1001,metro,1001446,La Morlette,,1,,1001 13:15:00 to La Morlette
+1001,metro,1001447,La Morlette,,1,,1001 13:18:00 to La Morlette
+1001,metro,1001448,La Morlette,,1,,1001 13:21:00 to La Morlette
+1001,metro,1001449,La Morlette,,1,,1001 13:24:00 to La Morlette
+1001,metro,1001450,La Morlette,,1,,1001 13:27:00 to La Morlette
+1001,metro,1001451,La Morlette,,1,,1001 13:30:00 to La Morlette
+1001,metro,1001452,La Morlette,,1,,1001 13:33:00 to La Morlette
+1001,metro,1001453,La Morlette,,1,,1001 13:36:00 to La Morlette
+1001,metro,1001454,La Morlette,,1,,1001 13:39:00 to La Morlette
+1001,metro,1001455,La Morlette,,1,,1001 13:42:00 to La Morlette
+1001,metro,1001456,La Morlette,,1,,1001 13:45:00 to La Morlette
+1001,metro,1001457,La Morlette,,1,,1001 13:48:00 to La Morlette
+1001,metro,1001458,La Morlette,,1,,1001 13:51:00 to La Morlette
+1001,metro,1001459,La Morlette,,1,,1001 13:54:00 to La Morlette
+1001,metro,1001460,La Morlette,,1,,1001 13:57:00 to La Morlette
+1001,metro,1001461,La Morlette,,1,,1001 14:00:00 to La Morlette
+1001,metro,1001462,La Morlette,,1,,1001 14:04:00 to La Morlette
+1001,metro,1001463,La Morlette,,1,,1001 14:08:00 to La Morlette
+1001,metro,1001464,La Morlette,,1,,1001 14:12:00 to La Morlette
+1001,metro,1001465,La Morlette,,1,,1001 14:16:00 to La Morlette
+1001,metro,1001466,La Morlette,,1,,1001 14:20:00 to La Morlette
+1001,metro,1001467,La Morlette,,1,,1001 14:24:00 to La Morlette
+1001,metro,1001468,La Morlette,,1,,1001 14:28:00 to La Morlette
+1001,metro,1001469,La Morlette,,1,,1001 14:32:00 to La Morlette
+1001,metro,1001470,La Morlette,,1,,1001 14:36:00 to La Morlette
+1001,metro,1001471,La Morlette,,1,,1001 14:40:00 to La Morlette
+1001,metro,1001472,La Morlette,,1,,1001 14:44:00 to La Morlette
+1001,metro,1001473,La Morlette,,1,,1001 14:48:00 to La Morlette
+1001,metro,1001474,La Morlette,,1,,1001 14:52:00 to La Morlette
+1001,metro,1001475,La Morlette,,1,,1001 14:56:00 to La Morlette
+1001,metro,1001476,La Morlette,,1,,1001 15:00:00 to La Morlette
+1001,metro,1001477,La Morlette,,1,,1001 15:04:00 to La Morlette
+1001,metro,1001478,La Morlette,,1,,1001 15:08:00 to La Morlette
+1001,metro,1001479,La Morlette,,1,,1001 15:12:00 to La Morlette
+1001,metro,1001480,La Morlette,,1,,1001 15:16:00 to La Morlette
+1001,metro,1001481,La Morlette,,1,,1001 15:20:00 to La Morlette
+1001,metro,1001482,La Morlette,,1,,1001 15:24:00 to La Morlette
+1001,metro,1001483,La Morlette,,1,,1001 15:28:00 to La Morlette
+1001,metro,1001484,La Morlette,,1,,1001 15:32:00 to La Morlette
+1001,metro,1001485,La Morlette,,1,,1001 15:36:00 to La Morlette
+1001,metro,1001486,La Morlette,,1,,1001 15:40:00 to La Morlette
+1001,metro,1001487,La Morlette,,1,,1001 15:44:00 to La Morlette
+1001,metro,1001488,La Morlette,,1,,1001 15:48:00 to La Morlette
+1001,metro,1001489,La Morlette,,1,,1001 15:52:00 to La Morlette
+1001,metro,1001490,La Morlette,,1,,1001 15:56:00 to La Morlette
+1001,metro,1001491,La Morlette,,1,,1001 16:00:00 to La Morlette
+1001,metro,1001492,La Morlette,,1,,1001 16:04:00 to La Morlette
+1001,metro,1001493,La Morlette,,1,,1001 16:08:00 to La Morlette
+1001,metro,1001494,La Morlette,,1,,1001 16:12:00 to La Morlette
+1001,metro,1001495,La Morlette,,1,,1001 16:16:00 to La Morlette
+1001,metro,1001496,La Morlette,,1,,1001 16:20:00 to La Morlette
+1001,metro,1001497,La Morlette,,1,,1001 16:24:00 to La Morlette
+1001,metro,1001498,La Morlette,,1,,1001 16:28:00 to La Morlette
+1001,metro,1001499,La Morlette,,1,,1001 16:32:00 to La Morlette
+1001,metro,1001500,La Morlette,,1,,1001 16:36:00 to La Morlette
+1001,metro,1001501,La Morlette,,1,,1001 16:40:00 to La Morlette
+1001,metro,1001502,La Morlette,,1,,1001 16:44:00 to La Morlette
+1001,metro,1001503,La Morlette,,1,,1001 16:48:00 to La Morlette
+1001,metro,1001504,La Morlette,,1,,1001 16:52:00 to La Morlette
+1001,metro,1001505,La Morlette,,1,,1001 16:56:00 to La Morlette
+1001,metro,1001506,La Morlette,,1,,1001 17:00:00 to La Morlette
+1001,metro,1001507,La Morlette,,1,,1001 17:02:30 to La Morlette
+1001,metro,1001508,La Morlette,,1,,1001 17:05:00 to La Morlette
+1001,metro,1001509,La Morlette,,1,,1001 17:07:30 to La Morlette
+1001,metro,1001510,La Morlette,,1,,1001 17:10:00 to La Morlette
+1001,metro,1001511,La Morlette,,1,,1001 17:12:30 to La Morlette
+1001,metro,1001512,La Morlette,,1,,1001 17:15:00 to La Morlette
+1001,metro,1001513,La Morlette,,1,,1001 17:17:30 to La Morlette
+1001,metro,1001514,La Morlette,,1,,1001 17:20:00 to La Morlette
+1001,metro,1001515,La Morlette,,1,,1001 17:22:30 to La Morlette
+1001,metro,1001516,La Morlette,,1,,1001 17:25:00 to La Morlette
+1001,metro,1001517,La Morlette,,1,,1001 17:27:30 to La Morlette
+1001,metro,1001518,La Morlette,,1,,1001 17:30:00 to La Morlette
+1001,metro,1001519,La Morlette,,1,,1001 17:32:30 to La Morlette
+1001,metro,1001520,La Morlette,,1,,1001 17:35:00 to La Morlette
+1001,metro,1001521,La Morlette,,1,,1001 17:37:30 to La Morlette
+1001,metro,1001522,La Morlette,,1,,1001 17:40:00 to La Morlette
+1001,metro,1001523,La Morlette,,1,,1001 17:42:30 to La Morlette
+1001,metro,1001524,La Morlette,,1,,1001 17:45:00 to La Morlette
+1001,metro,1001525,La Morlette,,1,,1001 17:47:30 to La Morlette
+1001,metro,1001526,La Morlette,,1,,1001 17:50:00 to La Morlette
+1001,metro,1001527,La Morlette,,1,,1001 17:52:30 to La Morlette
+1001,metro,1001528,La Morlette,,1,,1001 17:55:00 to La Morlette
+1001,metro,1001529,La Morlette,,1,,1001 17:57:30 to La Morlette
+1001,metro,1001530,La Morlette,,1,,1001 18:00:00 to La Morlette
+1001,metro,1001531,La Morlette,,1,,1001 18:02:30 to La Morlette
+1001,metro,1001532,La Morlette,,1,,1001 18:05:00 to La Morlette
+1001,metro,1001533,La Morlette,,1,,1001 18:07:30 to La Morlette
+1001,metro,1001534,La Morlette,,1,,1001 18:10:00 to La Morlette
+1001,metro,1001535,La Morlette,,1,,1001 18:12:30 to La Morlette
+1001,metro,1001536,La Morlette,,1,,1001 18:15:00 to La Morlette
+1001,metro,1001537,La Morlette,,1,,1001 18:17:30 to La Morlette
+1001,metro,1001538,La Morlette,,1,,1001 18:20:00 to La Morlette
+1001,metro,1001539,La Morlette,,1,,1001 18:22:30 to La Morlette
+1001,metro,1001540,La Morlette,,1,,1001 18:25:00 to La Morlette
+1001,metro,1001541,La Morlette,,1,,1001 18:27:30 to La Morlette
+1001,metro,1001542,La Morlette,,1,,1001 18:30:00 to La Morlette
+1001,metro,1001543,La Morlette,,1,,1001 18:32:30 to La Morlette
+1001,metro,1001544,La Morlette,,1,,1001 18:35:00 to La Morlette
+1001,metro,1001545,La Morlette,,1,,1001 18:37:30 to La Morlette
+1001,metro,1001546,La Morlette,,1,,1001 18:40:00 to La Morlette
+1001,metro,1001547,La Morlette,,1,,1001 18:42:30 to La Morlette
+1001,metro,1001548,La Morlette,,1,,1001 18:45:00 to La Morlette
+1001,metro,1001549,La Morlette,,1,,1001 18:47:30 to La Morlette
+1001,metro,1001550,La Morlette,,1,,1001 18:50:00 to La Morlette
+1001,metro,1001551,La Morlette,,1,,1001 18:52:30 to La Morlette
+1001,metro,1001552,La Morlette,,1,,1001 18:55:00 to La Morlette
+1001,metro,1001553,La Morlette,,1,,1001 18:57:30 to La Morlette
+1001,metro,1001554,La Morlette,,1,,1001 19:00:00 to La Morlette
+1001,metro,1001555,La Morlette,,1,,1001 19:04:00 to La Morlette
+1001,metro,1001556,La Morlette,,1,,1001 19:08:00 to La Morlette
+1001,metro,1001557,La Morlette,,1,,1001 19:12:00 to La Morlette
+1001,metro,1001558,La Morlette,,1,,1001 19:16:00 to La Morlette
+1001,metro,1001559,La Morlette,,1,,1001 19:20:00 to La Morlette
+1001,metro,1001560,La Morlette,,1,,1001 19:24:00 to La Morlette
+1001,metro,1001561,La Morlette,,1,,1001 19:28:00 to La Morlette
+1001,metro,1001562,La Morlette,,1,,1001 19:32:00 to La Morlette
+1001,metro,1001563,La Morlette,,1,,1001 19:36:00 to La Morlette
+1001,metro,1001564,La Morlette,,1,,1001 19:40:00 to La Morlette
+1001,metro,1001565,La Morlette,,1,,1001 19:44:00 to La Morlette
+1001,metro,1001566,La Morlette,,1,,1001 19:48:00 to La Morlette
+1001,metro,1001567,La Morlette,,1,,1001 19:52:00 to La Morlette
+1001,metro,1001568,La Morlette,,1,,1001 19:56:00 to La Morlette
+1001,metro,1001569,La Morlette,,1,,1001 20:00:00 to La Morlette
+1001,metro,1001570,La Morlette,,1,,1001 20:04:00 to La Morlette
+1001,metro,1001571,La Morlette,,1,,1001 20:08:00 to La Morlette
+1001,metro,1001572,La Morlette,,1,,1001 20:12:00 to La Morlette
+1001,metro,1001573,La Morlette,,1,,1001 20:16:00 to La Morlette
+1001,metro,1001574,La Morlette,,1,,1001 20:20:00 to La Morlette
+1001,metro,1001575,La Morlette,,1,,1001 20:24:00 to La Morlette
+1001,metro,1001576,La Morlette,,1,,1001 20:28:00 to La Morlette
+1001,metro,1001577,La Morlette,,1,,1001 20:32:00 to La Morlette
+1001,metro,1001578,La Morlette,,1,,1001 20:36:00 to La Morlette
+1001,metro,1001579,La Morlette,,1,,1001 20:40:00 to La Morlette
+1001,metro,1001580,La Morlette,,1,,1001 20:44:00 to La Morlette
+1001,metro,1001581,La Morlette,,1,,1001 20:48:00 to La Morlette
+1001,metro,1001582,La Morlette,,1,,1001 20:52:00 to La Morlette
+1001,metro,1001583,La Morlette,,1,,1001 20:56:00 to La Morlette
+1001,metro,1001584,La Morlette,,1,,1001 21:00:00 to La Morlette
+1001,metro,1001585,La Morlette,,1,,1001 21:05:00 to La Morlette
+1001,metro,1001586,La Morlette,,1,,1001 21:10:00 to La Morlette
+1001,metro,1001587,La Morlette,,1,,1001 21:15:00 to La Morlette
+1001,metro,1001588,La Morlette,,1,,1001 21:20:00 to La Morlette
+1001,metro,1001589,La Morlette,,1,,1001 21:25:00 to La Morlette
+1001,metro,1001590,La Morlette,,1,,1001 21:30:00 to La Morlette
+1001,metro,1001591,La Morlette,,1,,1001 21:35:00 to La Morlette
+1001,metro,1001592,La Morlette,,1,,1001 21:40:00 to La Morlette
+1001,metro,1001593,La Morlette,,1,,1001 21:45:00 to La Morlette
+1001,metro,1001594,La Morlette,,1,,1001 21:50:00 to La Morlette
+1001,metro,1001595,La Morlette,,1,,1001 21:55:00 to La Morlette
+1001,metro,1001596,La Morlette,,1,,1001 22:00:00 to La Morlette
+1001,metro,1001597,La Morlette,,1,,1001 22:07:00 to La Morlette
+1001,metro,1001598,La Morlette,,1,,1001 22:14:00 to La Morlette
+1001,metro,1001599,La Morlette,,1,,1001 22:21:00 to La Morlette
+1001,metro,1001600,La Morlette,,1,,1001 22:28:00 to La Morlette
+1001,metro,1001601,La Morlette,,1,,1001 22:35:00 to La Morlette
+1001,metro,1001602,La Morlette,,1,,1001 22:42:00 to La Morlette
+1001,metro,1001603,La Morlette,,1,,1001 22:49:00 to La Morlette
+1001,metro,1001604,La Morlette,,1,,1001 22:56:00 to La Morlette
+1001,metro,1001605,La Morlette,,1,,1001 23:03:00 to La Morlette
+1001,metro,1001606,La Morlette,,1,,1001 23:10:00 to La Morlette
+1001,metro,1001607,La Morlette,,1,,1001 23:17:00 to La Morlette
+1001,metro,1001608,La Morlette,,1,,1001 23:24:00 to La Morlette
+1001,metro,1001609,La Morlette,,1,,1001 23:31:00 to La Morlette
+1001,metro,1001610,La Morlette,,1,,1001 23:38:00 to La Morlette
+1001,metro,1001611,La Morlette,,1,,1001 23:45:00 to La Morlette
+1001,metro,1001612,La Morlette,,1,,1001 23:52:00 to La Morlette
+1001,metro,1001613,La Morlette,,1,,1001 23:59:00 to La Morlette
+1001,metro,1001614,La Morlette,,1,,1001 24:06:00 to La Morlette
+1001,metro,1001615,La Morlette,,1,,1001 24:13:00 to La Morlette
+1001,metro,1001616,La Morlette,,1,,1001 24:20:00 to La Morlette
+1001,metro,1001617,La Morlette,,1,,1001 24:27:00 to La Morlette
+1001,metro,1001618,La Morlette,,1,,1001 24:34:00 to La Morlette
